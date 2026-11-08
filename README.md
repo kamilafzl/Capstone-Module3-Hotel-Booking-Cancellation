@@ -76,9 +76,6 @@ prediksi = (proba >= model['threshold']).astype(int)   # 1 = berisiko cancel
 ## Environment
 Notebook dijalankan dengan Python 3.13, pandas 3.0, scikit-learn 1.9, imbalanced-learn 0.14, category_encoders 2.11, LightGBM 4.7, XGBoost 3.4, SHAP 0.54. File `.sav` sebaiknya di-*load* dengan versi library yang sama. Jika versi berbeda, jalankan ulang notebook untuk menghasilkan file model baru.
 
-## Video Presentation
-*(link video ditambahkan di sini)*
-
 ## References
 1. Antonio, N., de Almeida, A., & Nunes, L. (2019). *Hotel booking demand datasets*. Data in Brief, 22, 41–49.
 2. Antonio, N., de Almeida, A., & Nunes, L. (2017). *Predicting hotel booking cancellations to decrease uncertainty and increase revenue*. Tourism & Management Studies, 13(2).
