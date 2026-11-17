@@ -53,7 +53,7 @@ Faktor utama pembatalan: `deposit_type` (Non Refund), `country` (tamu domestik P
 ## Repository Structure
 | File | Keterangan |
 | --- | --- |
-| `Capstone_Module3_Hotel_Booking_Cancellation.ipynb` | Dokumentasi lengkap pengerjaan project (Jupyter Notebook) |
+| `Capstone Modul 3_Kamila_007.ipynb` | Dokumentasi lengkap pengerjaan project (Jupyter Notebook) |
 | `Model_Hotel_Booking_Cancellation.sav` | Model final (Pipeline preprocessing + LightGBM) dan threshold, disimpan dengan Pickle |
 | `data_hotel_booking_demand.csv` | Dataset |
 | `README.md` | Project introduction |
